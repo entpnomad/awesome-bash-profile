@@ -43,9 +43,9 @@
 #   -----------------------------
 #   2. MAKE TERMINAL BETTER
 #   -----------------------------
-alias sshp="sh ~/Documents/sshp.sh" 	      # This sh script connects to my RaspberryPi
-alias sshe="sh ~/Documents/sshe.sh"    	    # This sh script connects to my Web Server
-alias mysqlr="sh ~/Documents/myrqlr.sh"	    # This sh script connects to MySQL database
+alias sshp="sh ~/Documents/sshp.sh"         # This sh script connects to my RaspberryPi
+alias sshe="sh ~/Documents/sshe.sh"         # This sh script connects to my Web Server
+alias mysqlr="sh ~/Documents/myrqlr.sh"     # This sh script connects to MySQL database
 
 alias cp='cp -iv'                           # Preferred 'cp' implementation
 alias mv='mv -iv'                           # Preferred 'mv' implementation
