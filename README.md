@@ -13,6 +13,11 @@ Alternatively, you can open your .bash_profile and add only the features you nee
 ```sh
     $ vi ~/.bash_profile
 ```   
+After modifying the .bash_profile, make sure you reload it:
+
+```sh
+    $ source ~/.bash_profile
+``` 
 
 Please send me feedback and suggestions!
 
